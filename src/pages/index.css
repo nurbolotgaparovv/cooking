@@ -1,0 +1,312 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.line-text{
+    padding: 0 20px;
+    font-family: 'Epilogue',sans-serif;
+    font-size: 16px;
+    color: blue;
+}
+.line{
+    padding: 0 0 115px 0;
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+}
+.icon{
+    display: flex;
+    justify-content: space-evenly;
+    width: 150px;
+    padding: 23px 0;
+}
+.start-P{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 19px;
+    line-height: 28px;
+    width: 350px;
+}
+.start-img{
+    padding: 27px 0 192px 0;
+    display: flex;
+    align-items: center;
+}
+.img-log{
+    padding: 0 24px;
+    font-family: 'Epilogue',sans-serif;
+    font-size: 18px;
+    color: #000000;
+}
+.img-P{
+    padding: 7px 0 0 24px;
+    font-family: 'Epilogue',sans-serif;
+    font-size: 15px;
+    color: #000000;
+}
+.startups-texts-H{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 48px;
+    line-height: 54px;
+    width: 700px;
+}
+.startups{
+    padding: 144px 0 187px 0;
+    display: flex;
+}
+.startups-texts{
+    padding: 0 99px;
+}
+.startups-numbers{
+    padding: 74px 0 0 0;
+    display: flex;
+    justify-content: space-evenly;
+    width: 700px;
+}
+.numbers-num{
+    font-size: 60px;
+    color: #4543E8;
+}
+.number-P{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 21px;
+    line-height: 31px;
+    color: #000000;
+}
+.texts-images{
+    display: flex;
+    justify-content: space-evenly;
+}
+.work-line{
+    display: flex;
+}
+.work-text{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 60px;
+    line-height: 66px;
+    width: 700px;
+    padding: 26px 0 78px 0;
+}
+.work-img-text{
+    padding: 32px 0 23px 0;
+    font-family: 'Epilogue',sans-serif;
+    font-size: 24px;
+    color: #000000;
+}
+.work-images{
+    display: flex;
+    justify-content: space-evenly;
+}
+.work-img-P{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 12px;
+    line-height: 28px;
+    color: #000000;
+    width: 400px;
+}
+
+.website{
+    padding: 109px 0;
+}
+.lines{
+    width: 90px;
+    height: 40px;
+    margin: 84px 0;
+    padding: 56px 43px;
+    background: #4543E8;
+}
+.lines-text{
+    font-size: 16px;
+    color: #FFFFFF;
+}
+#services{
+   background: #010032;
+    padding: 150px 0 145px 0;
+}
+.services-line {
+    display: flex;
+    align-items: center;
+}
+.services-line-text{
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 0 10px;
+}
+.services-texts-text{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 48px;
+    line-height: 54px;
+    width: 400px;
+    color: #FFFFFF;
+}
+.services-texts{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.circle-text{
+    padding: 27px 0 23px 0;
+    font-family: 'Epilogue',sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.circle-P{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    width: 270px;
+}
+.Memorabilia{
+    display: flex;
+    padding: 60px 0 0 0;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1200px;
+}
+.merab-text{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 34px 0 23px 0;
+}
+.merab-P{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    width: 250px;
+}
+.Memorabilia-btn{
+    padding: 21px 86px 22px 42px;
+    color: black;
+    background: #fff;
+    border-radius: 32px;
+}
+#testimonials{
+    padding: 120px 0;
+    background: #D8D8EB;
+}
+.testimonials-line{
+    display: flex;
+    justify-content: center;
+}
+.line-H{
+    padding: 0 11px;
+    font-family: 'Epilogue',sans-serif;
+    font-size: 16px;
+    color: #4543E8;
+}
+.testimonials-logo{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 60px;
+    line-height: 66px;
+    width: 600px;
+    color: #000000;
+    padding: 26px 0 58px 0;
+}
+.review-icons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 150px;
+}
+.testimonials-reviews{
+    border: solid white;
+    Width: 480px;
+    Height: 260px;
+    padding: 40px 40px;
+    border-radius: 20px;
+    background: #fff;
+}
+.review-text{
+    padding: 30px 0 15px 0;
+    font-family: 'Epilogue',sans-serif;
+    font-size: 24px;
+    color: #000000;
+}
+.testimonial{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
+.review-P{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
+    width: 450px;
+}
+.review-img{
+    padding: 23px 0 52px 0;
+    display: flex;
+    align-items: center;
+}
+.img-texts{
+    padding: 0 24px;
+}
+.img-texts-text{
+    padding: 7px 0;
+    font-family: 'Epilogue',sans-serif;
+    font-size: 18px;
+    color: #000000;
+}
+.img-texts-P{
+    font-family: 'Epilogue',sans-serif;
+    font-size: 15px;
+    color: #000000;
+}
+#process{
+    padding: 144px 0 183px 0;
+}
+.process-line{
+    display: flex;
+    align-items: center;
+}
+
+.process-line-text{
+    font-size: 16px;
+    color: #4543E8;
+    padding: 0 11px;
+}
+.process-getting{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.process-getting-text{
+    font-size: 60px;
+    width: 450px;
+    color: #000000;
+}
+.process-getting-P{
+    font-size: 22px;
+    line-height: 34px;
+    width: 370px;
+    color: #000000;
+}
+.process-numbers-number{
+    font-size: 48px;
+    color: #4543E8;
+}
+.process-numbers-number-text{
+    padding: 31px 0 11px 0;
+    font-size: 24px;
+    color: #000000;
+}
+.process-numbers-number-P{
+    font-size: 12px;
+    line-height: 28px;
+    color: #000000;
+    width: 300px;
+}
+.process-numbers{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 165px 0 0 0;
+}

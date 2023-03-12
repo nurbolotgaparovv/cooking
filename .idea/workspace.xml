@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9c9f283-581d-480f-a122-01a5644a4e66" name="Changes" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/comment/AppDesk.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/comment/Change.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/pages/all/Process.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/pages/all/Product.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/pages/all/Services.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/pages/all/Startups.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/pages/all/Testimonials.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/pages/all/Work.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/pages/index.css" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/pages/index.js" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/package-lock.json" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/package-lock.json" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/package.json" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/package.json" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/App.css" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/App.css" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/App.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/App.js" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/comment/Header.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/comment/Header.js" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/index.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/menu-cook" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MMe8Gvq4XeAVaykgTrxE4WXCwh" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c9f283-581d-480f-a122-01a5644a4e66" name="Changes" comment="" />
+      <created>1677581717791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677581717791</updated>
+      <workItem from="1677581719147" duration="7223000" />
+      <workItem from="1677670258068" duration="2147000" />
+      <workItem from="1677674312868" duration="13388000" />
+      <workItem from="1677696625060" duration="8812000" />
+      <workItem from="1677705581463" duration="2104000" />
+      <workItem from="1677707743064" duration="415000" />
+      <workItem from="1677746164595" duration="2346000" />
+      <workItem from="1677748554632" duration="1954000" />
+      <workItem from="1677750641156" duration="27000" />
+      <workItem from="1677751052929" duration="591000" />
+      <workItem from="1677788074438" duration="4939000" />
+      <workItem from="1677793083764" duration="7793000" />
+      <workItem from="1677841336843" duration="1493000" />
+      <workItem from="1677858389075" duration="1053000" />
+      <workItem from="1677875020574" duration="746000" />
+      <workItem from="1677930081696" duration="33000" />
+      <workItem from="1678181207180" duration="1035000" />
+      <workItem from="1678182647505" duration="72000" />
+      <workItem from="1678277191212" duration="2150000" />
+      <workItem from="1678279525683" duration="186000" />
+      <workItem from="1678279726076" duration="2000" />
+      <workItem from="1678279845813" duration="3686000" />
+      <workItem from="1678284086076" duration="4163000" />
+      <workItem from="1678295647537" duration="2426000" />
+      <workItem from="1678300140851" duration="3665000" />
+      <workItem from="1678303837643" duration="12446000" />
+      <workItem from="1678348789515" duration="6107000" />
+      <workItem from="1678398545788" duration="1980000" />
+      <workItem from="1678475592836" duration="1035000" />
+      <workItem from="1678479741928" duration="10214000" />
+      <workItem from="1678526902393" duration="7754000" />
+      <workItem from="1678539132203" duration="3159000" />
+      <workItem from="1678561460828" duration="617000" />
+      <workItem from="1678568310283" duration="65000" />
+      <workItem from="1678575405128" duration="979000" />
+      <workItem from="1678608052748" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
